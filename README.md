@@ -1,5 +1,5 @@
 # Desafio-Agi-API
-This folder contains a simple CRUD API in Python/Flask
+Este projeto contém um simples CRUD para uma  API em Python/Flask
  
 ### Executando a API
 Os comando a seguir devem ser executados na pasta raiz do projeto
